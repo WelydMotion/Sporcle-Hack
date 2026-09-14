@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WELYD Game Test Panel</string>
+    <string name="title_header_sub">GAME TEST PANEL</string>
+    <string name="floating_service_notification_title">WELYD Test Panel Active</string>
+    <string name="floating_service_notification_desc">Floating overlay bubble is running</string>
+    <string name="channel_name">WELYD Overlay Channel</string>
+    <string name="channel_description">Foreground service notification for WELYD floating bubble</string>
+</resources>

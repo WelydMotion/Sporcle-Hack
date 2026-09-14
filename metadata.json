@@ -1,0 +1,6 @@
+{
+  "name": "WELYD Game Test Panel",
+  "description": "Native Android test and control panel for multiplayer game environments with floating overlay bubble, session discovery, and authoritative host claim API.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
